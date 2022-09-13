@@ -18,7 +18,14 @@ export default function App() {
           </a>
           {"  "}
           You can view it on{" "}
-          <a href="https://jolly-cranachan-7f7f10.netlify.app">Netlify</a>!
+          <a
+            href="https://jolly-cranachan-7f7f10.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
+          !
         </footer>
       </div>
     </div>
